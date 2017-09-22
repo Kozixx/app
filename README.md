@@ -1,4 +1,4 @@
 
-<img scr="https://bitcoin.org/img/icons/logotop.svg" alt="tło">
+<img src="https://bitcoin.org/img/icons/logotop.svg" alt="tło">
 <h2>KryptoInvestments</h2>
 
